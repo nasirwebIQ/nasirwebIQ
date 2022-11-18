@@ -1,6 +1,8 @@
 ### Hi , I'm Nasir Uddin
 
-######I'm web designer and developer From Bangladesh 🇧🇩.
+I'm web designer and developer From Bangladesh 🇧🇩.
+
+
 
 Here are some ideas to get you started:
 
