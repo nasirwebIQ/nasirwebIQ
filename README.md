@@ -4,7 +4,7 @@
 
 
 
-Here are some ideas to get you started:
+Education :* - Bsc in Computer Science and Engineering.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
